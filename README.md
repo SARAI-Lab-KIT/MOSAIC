@@ -19,13 +19,13 @@ This repository contains all the material related to the publication "MOSAIC: A 
 
 ## Demos 
 ### Detecting user approaching
-![Approaching robot](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/videos/Ultrasonic_Sensor_Detecting_Motion_Test.gif)
+![Approaching robot](videos/Ultrasonic_Sensor_Detecting_Motion_Test.gif)
 ### Detecting touch 
-![Touching robot](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/videos/Touch_Detection_Test.gif)
+![Touching robot](videos/Touch_Detection_Test.gif)
 ### Detecting robot movement 
-![Moving robot](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/videos/Robot_Motion_Detection_Test.gif)
+![Moving robot](videos/Robot_Motion_Detection_Test.gif)
 ### Swapping embodiments 
-![Swapping body](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/videos/Swapping_Embodiments.gif)
+![Swapping body](videos/Swapping_Embodiments.gif)
 
 ## License
 This repository is under the [GPL-3.0](https://github.com/SARAI-Lab-KIT/MOSAIC/blob/main/LICENSE) license.
