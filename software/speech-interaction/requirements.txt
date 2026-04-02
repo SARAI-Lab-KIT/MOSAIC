@@ -1,0 +1,7 @@
+numpy
+sounddevice
+webrtcvad
+faster-whisper
+piper-tts
+python-dotenv
+scipy
