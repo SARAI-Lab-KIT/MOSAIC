@@ -14,7 +14,7 @@ This repository contains all the material related to the publication "MOSAIC: A 
 
 ## What you will find inside this repository
 - **[hardware](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/hardware)**: Hardware-related files, including all CAD files
-- **[software](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/hardware)**: Software-related files, including all scripts to test the included sensors, LEDs, ASR, dialog management, TTS
+- **[software](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/software)**: Software-related files, including all scripts to test the included sensors, LEDs, ASR, dialog management, TTS
 - **[videos](https://github.com/SARAI-Lab-KIT/MOSAIC/tree/main/videos)**: Videos showcasing the components of MOSAIC 
 
 ## Demos 
