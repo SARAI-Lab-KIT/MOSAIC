@@ -6,9 +6,9 @@
 
 **MOSAIC** is designed as a dynamically evolving and openly accessible co-design toolkit for the community. We highly encourage anyone who is interested to use it as such, share their experiences, contribute to its further development, and thus help spread the practice of co-designing robots with their intended users. 
 
-<img width="500" height="1619" alt="Embodiments2" src="https://github.com/user-attachments/assets/55c34e4a-f50a-4447-8a4a-5985c6a5ba07" />
+<img height="1619" alt="Embodiments2" src="https://github.com/user-attachments/assets/55c34e4a-f50a-4447-8a4a-5985c6a5ba07" />
 
-<img width="500" height="1024" alt="ChatGPT Image Mar 29, 2026, 06_20_55 PM" src="https://github.com/user-attachments/assets/6727389e-d668-4595-b48a-85fdcae8c943" />
+<img height="1024" alt="ChatGPT Image Mar 29, 2026, 06_20_55 PM" src="https://github.com/user-attachments/assets/6727389e-d668-4595-b48a-85fdcae8c943" />
 
 This repository contains all the material related to the publication "MOSAIC: A reusable modular social robot platform for child-centered co-design".
 
